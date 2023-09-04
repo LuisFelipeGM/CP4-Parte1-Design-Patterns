@@ -42,6 +42,7 @@ Dessa forma garantimos que apenas 1 instancia da classe Biblioteca seja criada d
 <br>
 
 Ele evita que várias instâncias sejam criadas acidentalmente e ajuda a manter a consistência dos dados compartilhados.
+
 ![Instanciando a Classe](./images/02%20-%20Singleton%202.png)
 
 
@@ -50,6 +51,7 @@ O Observer é um padrão de projeto comportamental que define uma relação entr
 <br>
 
 Criamos uma interface que define um método update que é chamado pelo sujeito quando ocorrem mudanças relevantes.
+
 ![Interface](./images/03%20-%20Observer%201.png)
 
 <br>
@@ -78,6 +80,7 @@ O Strategy é um padrão de projeto comportamental que permite definir uma famí
 <br>
 
 Primeiro criamos uma interface para ser implementada por todas as famílias de algoritmos (lógicas) que o sistema pode ter
+
 ![Interface](./images/08%20-%20Strategy%201.png)
 
 <br>
